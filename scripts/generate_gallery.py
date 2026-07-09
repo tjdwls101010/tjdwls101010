@@ -149,8 +149,12 @@ def render(ordered, total):
 
 
 def main():
+    # Normalize to NFC: macOS's filesystem hands back NFD-decomposed
+    # names (Hangul as separate jamo), but git (core.precomposeunicode)
+    # stores NFC in the tree, which is what GitHub actually serves at.
+    # Encoding the raw NFD name here would produce a URL that 404s.
     files = sorted(
-        os.path.basename(p)
+        unicodedata.normalize("NFC", os.path.basename(p))
         for pattern in IMAGE_EXTS
         for p in glob.glob(os.path.join(IMAGES_DIR, pattern))
     )
