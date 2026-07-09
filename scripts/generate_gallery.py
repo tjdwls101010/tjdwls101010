@@ -24,7 +24,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMAGES_DIR = os.path.join(REPO_ROOT, "Images")
 README_PATH = os.path.join(IMAGES_DIR, "README.md")
 IMAGE_EXTS = ("*.png", "*.jpg", "*.jpeg", "*.webp", "*.gif")
-COLS = 3
+COLS = 2
 
 KST = datetime.timezone(datetime.timedelta(hours=9))
 UTC = datetime.timezone.utc
@@ -141,7 +141,7 @@ def render(ordered, total):
     lines.append("|" + "---|" * COLS)
     for i in range(0, len(ordered), COLS):
         row = ordered[i:i + COLS]
-        cells = [f'<img src="{enc(f)}" width="240" alt="{f}"><br>{f}' for f in row]
+        cells = [f'<img src="{enc(f)}" width="240" alt="{f}">' for f in row]
         cells += [""] * (COLS - len(cells))
         lines.append("| " + " | ".join(cells) + " |")
     lines.append("")
