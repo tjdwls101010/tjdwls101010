@@ -31,15 +31,25 @@ UTC = datetime.timezone.utc
 
 
 def enc(filename):
+    # filename must be the exact byte sequence git has recorded for this
+    # path (see list_tracked_images) -- never a re-normalized copy, since
+    # GitHub serves raw files at that literal path, in whatever Unicode
+    # normalization form (NFC/NFD) it happens to be stored as.
     return urllib.parse.quote(filename)
 
 
 def parse_chatgpt(filename):
-    name = unicodedata.normalize("NFC", filename)
-    m = re.search(
-        r"(\d{4})년\s*(\d{2})월\s*(\d{2})일\s*(오전|오후)\s*(\d{2})_(\d{2})_(\d{2})",
-        name,
-    )
+    # Match against both NFC and NFD forms: depending on how a file was
+    # added (local macOS git vs. GitHub web upload vs. Actions checkout),
+    # its Hangul bytes may be precomposed or decomposed. See enc()/main()
+    # for why we never rewrite the filename itself, only compare against it.
+    for name in (unicodedata.normalize("NFC", filename), unicodedata.normalize("NFD", filename)):
+        m = re.search(
+            r"(\d{4})년\s*(\d{1,2})월\s*(\d{1,2})일\s*(오전|오후)\s*(\d{2})_(\d{2})_(\d{2})",
+            name,
+        )
+        if m:
+            break
     if not m:
         return None
     y, mo, d, ampm, h, mi, s = m.groups()
@@ -148,16 +158,44 @@ def render(ordered, total):
     return "\n".join(lines)
 
 
+def list_tracked_images():
+    """Image filenames exactly as git has them recorded (index/HEAD).
+
+    Different contributors normalize Hangul filenames differently (macOS
+    git with core.precomposeunicode writes NFC; a GitHub web upload keeps
+    whatever the browser sent, which was NFD here) -- there is no single
+    "correct" form. Reading names back from git instead of the raw
+    filesystem guarantees the URL we build matches the byte sequence
+    GitHub actually serves the raw file at. Returns None if git is
+    unavailable (falls back to a plain filesystem scan).
+    """
+    try:
+        out = subprocess.run(
+            ["git", "ls-files", "-z", "--", "Images"],
+            cwd=REPO_ROOT, capture_output=True, check=True,
+        ).stdout
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        return None
+    exts = {os.path.splitext(e)[1] for e in IMAGE_EXTS}
+    names = []
+    for raw in out.split(b"\x00"):
+        if not raw:
+            continue
+        path = raw.decode("utf-8")
+        name = path[len("Images/"):] if path.startswith("Images/") else os.path.basename(path)
+        if os.path.splitext(name)[1].lower() in exts:
+            names.append(name)
+    return sorted(names)
+
+
 def main():
-    # Normalize to NFC: macOS's filesystem hands back NFD-decomposed
-    # names (Hangul as separate jamo), but git (core.precomposeunicode)
-    # stores NFC in the tree, which is what GitHub actually serves at.
-    # Encoding the raw NFD name here would produce a URL that 404s.
-    files = sorted(
-        unicodedata.normalize("NFC", os.path.basename(p))
-        for pattern in IMAGE_EXTS
-        for p in glob.glob(os.path.join(IMAGES_DIR, pattern))
-    )
+    files = list_tracked_images()
+    if files is None:
+        files = sorted(
+            os.path.basename(p)
+            for pattern in IMAGE_EXTS
+            for p in glob.glob(os.path.join(IMAGES_DIR, pattern))
+        )
     ordered = build_order(files)
     assert len(ordered) == len(files), f"ordering dropped files: {len(ordered)} != {len(files)}"
     content = render(ordered, len(files))
