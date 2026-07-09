@@ -1,6 +1,6 @@
 # Images 갤러리
 
-`Images/` 폴더의 모든 이미지 57장입니다. 생성 시점을 알 수 있는 이미지는 앞쪽에 시간순으로, 시점을 알 수 없는 이미지는 뒤쪽에 같은 생성 배치끼리 모아 이어서 배치했습니다.
+`Images/` 폴더의 모든 이미지 58장입니다. 생성 시점을 알 수 있는 이미지는 앞쪽에 시간순으로, 시점을 알 수 없는 이미지는 뒤쪽에 같은 생성 배치끼리 모아 이어서 배치했습니다.
 
 > 이 파일은 `scripts/generate_gallery.py`로 자동 생성됩니다. GitHub Actions의 **Update Gallery** 워크플로를 수동 실행하면 새로 추가된 이미지가 반영됩니다.
 
@@ -20,4 +20,4 @@
 | <img src="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row2_col3.png" width="240" alt="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row2_col3.png"> | <img src="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row3_col1.png" width="240" alt="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row3_col1.png"> | <img src="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row3_col2.png" width="240" alt="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row3_col2.png"> | <img src="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row3_col3.png" width="240" alt="nano-banana-da50a2b6-90c6-4939-ba70-9ae019fcdaf4_row3_col3.png"> |
 | <img src="IMG_2104.png" width="240" alt="IMG_2104.png"> | <img src="forest-gump.png" width="240" alt="forest-gump.png"> | <img src="image.png" width="240" alt="image.png"> | <img src="nano-banana-016a4d9e-71bc-45b5-8437-b62982df9dd7.png" width="240" alt="nano-banana-016a4d9e-71bc-45b5-8437-b62982df9dd7.png"> |
 | <img src="nano-banana-26556001-e9c7-4a3f-936c-a3c8ba4db312.png" width="240" alt="nano-banana-26556001-e9c7-4a3f-936c-a3c8ba4db312.png"> | <img src="nano-banana-5260156e-b6cc-4fe8-9003-8fa3386103bc.png" width="240" alt="nano-banana-5260156e-b6cc-4fe8-9003-8fa3386103bc.png"> | <img src="nano-banana-5c426c14-6bd7-48dc-8a44-95984888be72.png" width="240" alt="nano-banana-5c426c14-6bd7-48dc-8a44-95984888be72.png"> | <img src="nano-banana-692c1725-b4da-41a5-b2a8-eb1839141c15.png" width="240" alt="nano-banana-692c1725-b4da-41a5-b2a8-eb1839141c15.png"> |
-| <img src="nano-banana-c1a4bbd4-3457-49d0-83b6-69d04be2e236.png" width="240" alt="nano-banana-c1a4bbd4-3457-49d0-83b6-69d04be2e236.png"> |  |  |  |
+| <img src="nano-banana-c1a4bbd4-3457-49d0-83b6-69d04be2e236.png" width="240" alt="nano-banana-c1a4bbd4-3457-49d0-83b6-69d04be2e236.png"> | <img src="ChatGPT%20Image%202026%EB%85%84%207%EC%9B%94%209%EC%9D%BC%20%EC%98%A4%ED%9B%84%2001_13_27.png" width="240" alt="ChatGPT Image 2026년 7월 9일 오후 01_13_27.png"> |  |  |
