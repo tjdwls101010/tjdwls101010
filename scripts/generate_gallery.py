@@ -24,7 +24,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMAGES_DIR = os.path.join(REPO_ROOT, "Images")
 README_PATH = os.path.join(IMAGES_DIR, "README.md")
 IMAGE_EXTS = ("*.png", "*.jpg", "*.jpeg", "*.webp", "*.gif")
-COLS = 2
+COLS = 4
 
 KST = datetime.timezone(datetime.timedelta(hours=9))
 UTC = datetime.timezone.utc
