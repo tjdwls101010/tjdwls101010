@@ -1,0 +1,36 @@
+name: Update Gallery
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate Images/README.md
+        run: python3 scripts/generate_gallery.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- Images/README.md; then
+            echo "No changes to gallery."
+            exit 0
+          fi
+          git add Images/README.md
+          git commit -m "Update image gallery"
+          git push
