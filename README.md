@@ -43,6 +43,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Scraper-for-X"><img width="100%" src="Images/scraper%20for%20x.png" alt="Scraper for X"></a></td>
-    <td></td>
+    <td><a href="https://github.com/tjdwls101010/I-Hate-Hancom_for_Claude"><img width="100%" src="Images/한컴.png" alt="I Hate Hancom for Claude"></a></td>
   </tr>
 </table>
