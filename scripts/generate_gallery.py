@@ -192,12 +192,19 @@ def list_tracked_images():
         return None
     exts = {os.path.splitext(e)[1] for e in IMAGE_EXTS}
     names = []
+    normalized_names = set()
     for raw in out.split(b"\x00"):
         if not raw:
             continue
         path = raw.decode("utf-8")
         name = path[len("Images/"):] if path.startswith("Images/") else os.path.basename(path)
         if os.path.splitext(name)[1].lower() in exts:
+            # HFS+/APFS may check out NFC and NFD spellings as one physical
+            # file even when both raw paths exist in Git. Show it once.
+            normalized_name = unicodedata.normalize("NFC", name)
+            if normalized_name in normalized_names:
+                continue
+            normalized_names.add(normalized_name)
             names.append(name)
     return sorted(names)
 
