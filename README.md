@@ -1,3 +1,17 @@
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tjdwls101010&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tjdwls101010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com?user=tjdwls101010&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak"/>
+
+</div>
+
 ![](Images/나홀로집에.png)
 
 ## Featured Projects
@@ -24,20 +38,3 @@
     <td><a href="https://github.com/tjdwls101010/Congress-DB"><img width="100%" src="Images/congress%20db.png" alt="Congress DB"></a></td>
   </tr>
 </table>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tjdwls101010&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tjdwls101010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://streak-stats.demolab.com?user=tjdwls101010&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak"/>
-
-</div>
-<br/>
-
-</div>
