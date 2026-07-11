@@ -19,7 +19,11 @@
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/tjdwls101010/Harness-Creator"><img width="100%" src="Images/Harness%20Creator.png" alt="Harness Creator"></a></td>
-    <td width="50%"><a href="https://github.com/tjdwls101010/Harness-of-Serenity"><img width="100%" src="Images/Harness%20of%20Serenity.png" alt="Harness of Serenity"></a></td>
+    <td width="50%"><a href="https://github.com/tjdwls101010/Skills-for-Langchain"><img width="100%" src="Images/skills%20for%20langchain.png" alt="Skills for LangChain"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tjdwls101010/Skills-for-FastMCP"><img width="100%" src="Images/skills%20for%20fastmcp.png" alt="Skills for FastMCP"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Harness-of-Serenity"><img width="100%" src="Images/Harness%20of%20Serenity.png" alt="Harness of Serenity"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Harness-of-Minervini"><img width="100%" src="Images/Harness%20of%20Minervini.png" alt="Harness of Minervini"></a></td>
