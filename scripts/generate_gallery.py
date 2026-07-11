@@ -5,7 +5,8 @@ Ordering:
   1. Images whose creation time can be parsed from their filename
      (ChatGPT downloads, assets_task_*, gemini-3-pro-*), oldest first.
   2. nano-banana 3x3 grid sets, grouped by their shared UUID, row-major.
-  3. Everything else: ordered by the date each file was first added to
+  3. 두목{n}.png images, as one contiguous group in numeric order.
+  4. Everything else: ordered by the date each file was first added to
      git history (oldest first), falling back to filename order for
      files git has no history for yet (e.g. newly added, uncommitted).
 
@@ -81,6 +82,13 @@ def parse_nano_banana_grid(filename):
     )
 
 
+def parse_dumok(filename):
+    """Return a 두목 image's numeric suffix, regardless of Unicode normalization."""
+    normalized = unicodedata.normalize("NFC", filename)
+    m = re.fullmatch(r"두목(\d+)\.png", normalized)
+    return int(m.group(1)) if m else None
+
+
 def git_first_added(filename):
     """Return the datetime a file was first committed, or None if untracked/no git."""
     try:
@@ -106,8 +114,13 @@ def build_order(files):
     dated.sort(key=lambda x: x[0])
 
     grid_groups = {}
+    dumok_images = []
     rest = []
     for _, f in undated:
+        dumok_number = parse_dumok(f)
+        if dumok_number is not None:
+            dumok_images.append((dumok_number, f))
+            continue
         m = parse_nano_banana_grid(f)
         if m:
             uid, r, c = m.group(1), int(m.group(2)), int(m.group(3))
@@ -130,6 +143,7 @@ def build_order(files):
     rest_dated = [(git_first_added(f), f) for f in rest]
     rest_dated.sort(key=lambda x: (x[0] is None, x[0] or datetime.datetime.min.replace(tzinfo=UTC), x[1]))
     ordered += [f for _, f in rest_dated]
+    ordered += [f for _, f in sorted(dumok_images)]
     return ordered
 
 
