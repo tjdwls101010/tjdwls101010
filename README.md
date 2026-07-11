@@ -1,3 +1,5 @@
+![](Images/나홀로집에.png)
+
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tjdwls101010&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
@@ -11,8 +13,6 @@
 <img width="49%" src="https://streak-stats.demolab.com?user=tjdwls101010&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak"/>
 
 </div>
-
-![](Images/나홀로집에.png)
 
 ## Featured Projects
 
