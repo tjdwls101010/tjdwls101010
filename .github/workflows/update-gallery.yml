@@ -6,6 +6,11 @@ on:
 permissions:
   contents: write
 
+# Serialize gallery updates so simultaneous manual runs cannot race to push.
+concurrency:
+  group: update-gallery-main
+  cancel-in-progress: false
+
 jobs:
   update-gallery:
     runs-on: ubuntu-latest
@@ -13,6 +18,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          # A manually dispatched run can otherwise check out the SHA selected
+          # when it was queued, which may no longer be the tip of main.
+          ref: main
           fetch-depth: 0
 
       - name: Set up Python
@@ -33,4 +41,5 @@ jobs:
           fi
           git add Images/README.md
           git commit -m "Update image gallery"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
