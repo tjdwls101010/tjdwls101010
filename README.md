@@ -1,6 +1,4 @@
-![](Images/IMG_2104.png)
-
-![](Images/ChatGPT Image 2026년 7월 11일 오후 01_25_15.png)
+![](Images/나홀로집에.png)
 
 <div align="center">
 
