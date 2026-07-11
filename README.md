@@ -1,6 +1,6 @@
 ![](Images/IMG_2104.png)
 
-![](https://raw.githubusercontent.com/tjdwls101010/DUMOK/refs/heads/main/Images/gemini-3-pro-1772265084634oz7y71z3q.png)
+![](Images/ChatGPT Image 2026년 7월 11일 오후 01_25_15.png)
 
 <div align="center">
 
