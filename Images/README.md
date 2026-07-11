@@ -1,6 +1,6 @@
 # Images 갤러리
 
-`Images/` 폴더의 모든 이미지 65장입니다. 생성 시점을 알 수 있는 이미지는 앞쪽에 시간순으로, 시점을 알 수 없는 이미지는 뒤쪽에 같은 생성 배치끼리 모아 이어서 배치했습니다.
+`Images/` 폴더의 모든 이미지 64장입니다. 생성 시점을 알 수 있는 이미지는 앞쪽에 시간순으로, 시점을 알 수 없는 이미지는 뒤쪽에 같은 생성 배치끼리 모아 이어서 배치했습니다.
 
 > 이 파일은 `scripts/generate_gallery.py`로 자동 생성됩니다. GitHub Actions의 **Update Gallery** 워크플로를 수동 실행하면 새로 추가된 이미지가 반영됩니다.
 
@@ -20,6 +20,5 @@
 | <img src="%EB%91%90%EB%AA%A929.png" width="240" alt="두목29.png"> | <img src="%EB%91%90%EB%AA%A930.png" width="240" alt="두목30.png"> | <img src="%EB%91%90%EB%AA%A931.png" width="240" alt="두목31.png"> | <img src="%EB%91%90%EB%AA%A932.png" width="240" alt="두목32.png"> |
 | <img src="%EB%91%90%EB%AA%A933.png" width="240" alt="두목33.png"> | <img src="%EB%91%90%EB%AA%A934.png" width="240" alt="두목34.png"> | <img src="%EB%91%90%EB%AA%A935.png" width="240" alt="두목35.png"> | <img src="%EB%91%90%EB%AA%A936.png" width="240" alt="두목36.png"> |
 | <img src="%EB%91%90%EB%AA%A937.png" width="240" alt="두목37.png"> | <img src="%EB%91%90%EB%AA%A938.png" width="240" alt="두목38.png"> | <img src="%EB%91%90%EB%AA%A939.png" width="240" alt="두목39.png"> | <img src="%EB%91%90%EB%AA%A940.png" width="240" alt="두목40.png"> |
-| <img src="%EB%91%90%EB%AA%A941.png" width="240" alt="두목41.png"> | <img src="%EB%91%90%EB%AA%A942.png" width="240" alt="두목42.png"> | <img src="%EB%91%90%EB%AA%A943.png" width="240" alt="두목43.png"> | <img src="%EB%91%90%EB%AA%A944.png" width="240" alt="두목44.png"> |
-| <img src="%EB%91%90%EB%AA%A945.png" width="240" alt="두목45.png"> | <img src="%EB%91%90%EB%AA%A946.png" width="240" alt="두목46.png"> | <img src="%EB%91%90%EB%AA%A947.png" width="240" alt="두목47.png"> | <img src="%EB%91%90%EB%AA%A948.png" width="240" alt="두목48.png"> |
-| <img src="%EB%91%90%EB%AA%A949.png" width="240" alt="두목49.png"> |  |  |  |
+| <img src="%EB%91%90%EB%AA%A941.png" width="240" alt="두목41.png"> | <img src="%EB%91%90%EB%AA%A942.png" width="240" alt="두목42.png"> | <img src="%EB%91%90%EB%AA%A943.png" width="240" alt="두목43.png"> | <img src="%EB%91%90%EB%AA%A945.png" width="240" alt="두목45.png"> |
+| <img src="%EB%91%90%EB%AA%A946.png" width="240" alt="두목46.png"> | <img src="%EB%91%90%EB%AA%A947.png" width="240" alt="두목47.png"> | <img src="%EB%91%90%EB%AA%A948.png" width="240" alt="두목48.png"> | <img src="%EB%91%90%EB%AA%A949.png" width="240" alt="두목49.png"> |
