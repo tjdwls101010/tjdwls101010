@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/IBD%20RS%20Rating.png" alt="IBD RS Rating"></a></td>
-    <td><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/CNN%20Fear%26Greed%20Index.png" alt="CNN Fear and Greed"></a></td>
+    <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/superinvestor.png" alt="DataRoma Super Investors"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/SEC-Analyzer"><img width="100%" src="Images/SEC%20Data%20Extractor.png" alt="SEC Analyzer"></a></td>
@@ -40,9 +40,5 @@
   <tr>
     <td><a href="https://github.com/tjdwls101010/Scraper-for-Facebook"><img width="100%" src="Images/scraper%20for%20facebook.png" alt="Scraper for Facebook"></a></td>
     <td><a href="https://github.com/tjdwls101010/Scraper-for-X"><img width="100%" src="Images/scraper%20for%20x.png" alt="Scraper for X"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/superinvestor.png" alt="DataRoma Super Investors"></a></td>
-    <td></td>
   </tr>
 </table>
