@@ -23,22 +23,26 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Harness-of-Minervini"><img width="100%" src="Images/Harness%20of%20Minervini.png" alt="Harness of Minervini"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/Harness%20for%20K-Politics.png" alt="Harness for K-Politics"></a></td>
+    <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/IBD%20RS%20Rating.png" alt="IBD RS Rating"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/IBD%20RS%20Rating.png" alt="IBD RS Rating"></a></td>
     <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/superinvestor.png" alt="DataRoma Super Investors"></a></td>
+    <td><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/CNN%20Fear%26Greed%20Index.png" alt="CNN Fear and Greed"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/SEC-Analyzer"><img width="100%" src="Images/SEC%20Data%20Extractor.png" alt="SEC Analyzer"></a></td>
     <td><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/CME%20Fedwatch.png" alt="CME FedWatch"></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/Harness%20for%20K-Politics.png" alt="Harness for K-Politics"></a></td>
     <td><a href="https://github.com/tjdwls101010/MOLEG-API"><img width="100%" src="Images/moleg%20api.png" alt="MOLEG API"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Congress-DB"><img width="100%" src="Images/congress%20db.png" alt="Congress DB"></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/tjdwls101010/Congress-DB"><img width="100%" src="Images/congress%20db.png" alt="Congress DB"></a></td>
     <td><a href="https://github.com/tjdwls101010/Scraper-for-Facebook"><img width="100%" src="Images/scraper%20for%20facebook.png" alt="Scraper for Facebook"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/tjdwls101010/Scraper-for-X"><img width="100%" src="Images/scraper%20for%20x.png" alt="Scraper for X"></a></td>
+    <td></td>
   </tr>
 </table>
