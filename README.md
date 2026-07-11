@@ -41,4 +41,8 @@
     <td><a href="https://github.com/tjdwls101010/Scraper-for-Facebook"><img width="100%" src="Images/scraper%20for%20facebook.png" alt="Scraper for Facebook"></a></td>
     <td><a href="https://github.com/tjdwls101010/Scraper-for-X"><img width="100%" src="Images/scraper%20for%20x.png" alt="Scraper for X"></a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/superinvestor.png" alt="DataRoma Super Investors"></a></td>
+    <td></td>
+  </tr>
 </table>
