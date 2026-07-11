@@ -1,4 +1,4 @@
-![](Images/nano-banana-016a4d9e-71bc-45b5-8437-b62982df9dd7.png)
+![](Images/IMG_2104.png)
 
 ![](https://raw.githubusercontent.com/tjdwls101010/DUMOK/refs/heads/main/Images/gemini-3-pro-1772265084634oz7y71z3q.png)
 
