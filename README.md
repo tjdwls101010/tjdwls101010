@@ -35,13 +35,7 @@
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tjdwls101010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tjdwls101010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=tjdwls101010&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=tjdwls101010&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak"/>
 
 </div>
 <br/>
