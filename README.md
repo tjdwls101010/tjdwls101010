@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/CME%20Fedwatch.png" alt="CME FedWatch"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/Harness%20for%20K-Politics.png" alt="Harness for K-Politics"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/Harness%20for%20K-Politics%202.png" alt="Harness for K-Politics"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/MOLEG-API"><img width="100%" src="Images/moleg%20api.png" alt="MOLEG API"></a></td>
