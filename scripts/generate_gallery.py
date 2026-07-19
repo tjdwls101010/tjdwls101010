@@ -11,7 +11,8 @@ Ordering:
      files git has no history for yet (e.g. newly added, uncommitted).
 
 Run manually with `python3 scripts/generate_gallery.py`, or via the
-"Update Gallery" GitHub Actions workflow (workflow_dispatch).
+"Update Gallery" GitHub Actions workflow, which runs on every push to
+main that touches Images/ and can also be dispatched by hand.
 """
 import datetime
 import glob

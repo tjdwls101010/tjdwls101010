@@ -2,6 +2,15 @@ name: Update Gallery
 
 on:
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "Images/**"
+      - "scripts/generate_gallery.py"
+      # The gallery this workflow writes. Excluded so the bot's own commit
+      # is not a candidate trigger; GITHUB_TOKEN pushes already do not start
+      # new runs, this just makes the intent explicit.
+      - "!Images/README.md"
 
 permissions:
   contents: write
