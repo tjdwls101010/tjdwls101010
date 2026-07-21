@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tjdwls101010&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://tokscale.ai/u/tjdwls101010"><img alt="Tokscale Stats for @tjdwls101010" src="https://tokscale.ai/api/embed/tjdwls101010/svg?color=halloween&graph=1&rank=percent&tokens=full&cost=full" /></a>
 
 </div>
