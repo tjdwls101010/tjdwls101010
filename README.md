@@ -1,10 +1,10 @@
-![](Images/나홀로집에.png)
-
 <div align="center">
 
-<a href="https://tokscale.ai/u/tjdwls101010"><img alt="Tokscale Stats for @tjdwls101010" src="https://tokscale.ai/api/embed/tjdwls101010/svg?color=halloween&graph=1&rank=percent&tokens=full&cost=full" /></a>
+<a href="https://tokscale.ai/u/tjdwls101010"><img width="100%" alt="Tokscale Stats for @tjdwls101010" src="https://tokscale.ai/api/embed/tjdwls101010/svg?color=halloween&graph=1&rank=percent&tokens=full&cost=full" /></a>
 
 </div>
+
+![](Images/나홀로집에.png)
 
 ## Featured Projects
 
