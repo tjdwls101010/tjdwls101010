@@ -8,9 +8,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tjdwls101010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://streak-stats.demolab.com?user=tjdwls101010&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak"/>
+<a href="https://tokscale.ai/u/tjdwls101010"><img alt="Tokscale Stats for @tjdwls101010" src="https://tokscale.ai/api/embed/tjdwls101010/svg?color=halloween&graph=1&rank=percent&tokens=full&cost=full" /></a>
 
 </div>
 
