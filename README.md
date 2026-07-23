@@ -39,10 +39,10 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Ultra-Fetch"><img width="100%" src="Images/ultra%20fetch.png" alt="Ultra Fetch"></a></td>
-    <td><a href="https://github.com/tjdwls101010/agentic-facebook"><img width="100%" src="Images/agentic%20facebook.png" alt="Agentic Facebook"></a></td>
+    <td><a href="https://github.com/tjdwls101010/agentic-facebook"><img width="100%" src="Images/agentic%20facebook.png?v=2" alt="Agentic Facebook"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/agentic-x"><img width="100%" src="Images/agentic%20x.png" alt="Agentic X"></a></td>
+    <td><a href="https://github.com/tjdwls101010/agentic-x"><img width="100%" src="Images/agentic%20x.png?v=2" alt="Agentic X"></a></td>
     <td><a href="https://github.com/tjdwls101010/Agentic-Threads"><img width="100%" src="Images/agentic%20threads.png" alt="Agentic Threads"></a></td>
   </tr>
 </table>
