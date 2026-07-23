@@ -45,4 +45,8 @@
     <td><a href="https://github.com/tjdwls101010/agentic-x"><img width="100%" src="Images/agentic%20x.png?v=2" alt="Agentic X"></a></td>
     <td><a href="https://github.com/tjdwls101010/Agentic-Threads"><img width="100%" src="Images/agentic%20threads.png" alt="Agentic Threads"></a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/tjdwls101010/Agentic-Reddit"><img width="100%" src="Images/agentic%20reddit.png" alt="Agentic Reddit"></a></td>
+    <td></td>
+  </tr>
 </table>
