@@ -43,6 +43,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/agentic-x"><img width="100%" src="Images/agentic%20x.png" alt="Agentic X"></a></td>
-    <td></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-Threads"><img width="100%" src="Images/agentic%20threads.png" alt="Agentic Threads"></a></td>
   </tr>
 </table>
