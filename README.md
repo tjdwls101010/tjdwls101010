@@ -47,6 +47,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Agentic-Reddit"><img width="100%" src="Images/agentic%20reddit.png" alt="Agentic Reddit"></a></td>
-    <td></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-Blog"><img width="100%" src="Images/agentic%20blog.png" alt="Agentic Blog"></a></td>
   </tr>
 </table>
