@@ -1,4 +1,4 @@
-<img width="100%" src="Images/header.png" alt="프로필 헤더">
+<img width="100%" src="Images/header.png?v=a0aff5a" alt="프로필 헤더">
 
 <div align="center">
 
