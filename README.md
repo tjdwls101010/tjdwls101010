@@ -1,3 +1,5 @@
+<img width="100%" src="Images/header.png" alt="프로필 헤더">
+
 <div align="center">
 
 <a href="https://tokscale.ai/u/tjdwls101010"><img width="100%" alt="Tokscale Stats for @tjdwls101010" src="https://tokscale.ai/api/embed/tjdwls101010/svg?color=halloween&graph=1&rank=percent&tokens=full&cost=full" /></a>
