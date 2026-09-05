@@ -28,13 +28,14 @@
     <td width="50%"><a href="https://github.com/tjdwls101010/Harness-of-Serenity"><img width="100%" src="Images/4.%20harness%20of%20serenity.png" alt="Harness of Serenity"></a></td>
     <td width="50%"><a href="https://github.com/tjdwls101010/Harness-of-Minervini"><img width="100%" src="Images/5.%20harness%20of%20minervini.png" alt="Harness of Minervini"></a></td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/6.%20ibd%20rs%20rating.png" alt="IBD RS Rating"></a></td>
-    <td><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/7.%20cnn%20fear%26greed%20index.png" alt="CNN Fear Greed"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/8.%20cme%20fedwatch.png" alt="CME FedWatch"></a></td>
-    <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/9.%20dataroma%20superinvestor.png" alt="DataRoma Super Investors"></a></td>
+    <td width="25%"><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/6.%20ibd%20rs%20rating.png" alt="IBD RS Rating"></a></td>
+    <td width="25%"><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/7.%20cnn%20fear%26greed%20index.png" alt="CNN Fear Greed"></a></td>
+    <td width="25%"><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/8.%20cme%20fedwatch.png" alt="CME FedWatch"></a></td>
+    <td width="25%"><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/9.%20dataroma%20superinvestor.png" alt="DataRoma Super Investors"></a></td>
   </tr>
 </table>
 
