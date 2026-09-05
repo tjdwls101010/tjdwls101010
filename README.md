@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/tjdwls101010/tjdwls101010/main/Images/header.png?v=a0aff5a" alt="프로필 헤더">
+<img width="100%" src="Images/header-v2.png" alt="프로필 헤더">
 
 <div align="center">
 
