@@ -53,6 +53,6 @@
 <table width="100%">
   <tr>
     <td width="50%"><a href="https://github.com/tjdwls101010/Claude-Artist"><img width="100%" src="Images/10.%20claude%20to%20artist.png" alt="Claude Artist"></a></td>
-    <td width="50%"></td>
+    <td width="50%"><a href="https://github.com/tjdwls101010/Claude-Researcher"><img width="100%" src="Images/claude%20researcher.png" alt="Claude Researcher"></a></td>
   </tr>
 </table>
