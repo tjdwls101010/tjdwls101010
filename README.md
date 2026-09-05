@@ -13,22 +13,26 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Ultra-Search"><img width="100%" src="Images/3.%20ultra%20search.png" alt="Ultra Search"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-SNS"><img width="100%" src="Images/agentic%20sns.png" alt="Agentic SNS"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/tjdwls101010/Harness-of-Serenity"><img width="100%" src="Images/4.%20harness%20of%20serenity.png" alt="Harness of Serenity"></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/tjdwls101010/Harness-of-Minervini"><img width="100%" src="Images/5.%20harness%20of%20minervini.png" alt="Harness of Minervini"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/6.%20ibd%20rs%20rating.png" alt="IBD RS Rating"></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/7.%20cnn%20fear%26greed%20index.png" alt="CNN Fear Greed"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/8.%20cme%20fedwatch.png" alt="CME FedWatch"></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/9.%20dataroma%20superinvestor.png" alt="DataRoma Super Investors"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Claude-Artist"><img width="100%" src="Images/10.%20claude%20to%20artist.png" alt="Claude Artist"></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/tjdwls101010/Claude-Artist"><img width="100%" src="Images/10.%20claude%20to%20artist.png" alt="Claude Artist"></a></td>
     <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/11.%20Harness%20for%20K-Politics.png" alt="Harness for K Politics"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/tjdwls101010/K-News-DB"><img width="100%" src="Images/12.%20k-news%20db.png" alt="K News DB"></a></td>
+    <td></td>
   </tr>
 </table>
