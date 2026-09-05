@@ -4,8 +4,6 @@
 
 </div>
 
-![](Images/나홀로집에.png)
-
 ## Featured Projects
 
 <table>
