@@ -10,51 +10,27 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/tjdwls101010/Harness-Creator"><img width="100%" src="Images/Harness%20Creator.png" alt="Harness Creator"></a></td>
-    <td width="50%"><a href="https://github.com/tjdwls101010/Codex-in-Claude"><img width="100%" src="Images/codex%20in%20claude.png" alt="Codex in Claude"></a></td>
+    <td width="50%"><a href="https://github.com/tjdwls101010/Harness-Creator"><img width="100%" src="Images/1.%20harness-creator.png" alt="Harness Creator"></a></td>
+    <td width="50%"><a href="https://github.com/tjdwls101010/Codex-in-Claude"><img width="100%" src="Images/2.%20codex%20in%20claude.png" alt="Codex in Claude"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/Art-Director-in-Claude"><img width="100%" src="Images/art%20director%20in%20claude.png" alt="Art Director in Claude"></a></td>
-    <td><a href="https://github.com/tjdwls101010/skills-for-repo-wiki"><img width="100%" src="Images/skills%20for%20repo-wiki.png" alt="Skills for Repo Wiki"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Ultra-Search"><img width="100%" src="Images/3.%20ultra%20search.png" alt="Ultra Search"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Harness-of-Serenity"><img width="100%" src="Images/4.%20harness%20of%20serenity.png" alt="Harness of Serenity"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/K-News-DB"><img width="100%" src="Images/K-News%20DB.png" alt="K-News DB"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Skills-for-Langchain"><img width="100%" src="Images/skills%20for%20langchain.png" alt="Skills for LangChain"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Harness-of-Minervini"><img width="100%" src="Images/5.%20harness%20of%20minervini.png" alt="Harness of Minervini"></a></td>
+    <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/6.%20ibd%20rs%20rating.png" alt="IBD RS Rating"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/Skills-for-FastMCP"><img width="100%" src="Images/skills%20for%20fastmcp.png" alt="Skills for FastMCP"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Harness-of-Serenity"><img width="100%" src="Images/Harness%20of%20Serenity.png" alt="Harness of Serenity"></a></td>
+    <td><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/7.%20cnn%20fear%26greed%20index.png" alt="CNN Fear Greed"></a></td>
+    <td><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/8.%20cme%20fedwatch.png" alt="CME FedWatch"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/Harness-of-Minervini"><img width="100%" src="Images/Harness%20of%20Minervini.png" alt="Harness of Minervini"></a></td>
-    <td><a href="https://github.com/tjdwls101010/IBD-RS-Rating"><img width="100%" src="Images/IBD%20RS%20Rating.png" alt="IBD RS Rating"></a></td>
+    <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/9.%20dataroma%20superinvestor.png" alt="DataRoma Super Investors"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Claude-Artist"><img width="100%" src="Images/10.%20claude%20to%20artist.png" alt="Claude Artist"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/DataRoma-Super-Investors"><img width="100%" src="Images/superinvestor.png" alt="DataRoma Super Investors"></a></td>
-    <td><a href="https://github.com/tjdwls101010/CNN-Fear-Greed"><img width="100%" src="Images/CNN%20Fear%26Greed%20Index.png" alt="CNN Fear and Greed"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/SEC-Analyzer"><img width="100%" src="Images/SEC%20Data%20Extractor.png" alt="SEC Analyzer"></a></td>
-    <td><a href="https://github.com/tjdwls101010/CME-FedWatch"><img width="100%" src="Images/CME%20Fedwatch.png" alt="CME FedWatch"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/Harness%20for%20K-Politics%202.png" alt="Harness for K-Politics"></a></td>
-    <td><a href="https://github.com/tjdwls101010/MOLEG-API"><img width="100%" src="Images/moleg%20api.png" alt="MOLEG API"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/Congress-DB"><img width="100%" src="Images/congress%20db.png" alt="Congress DB"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Ultra-Fetch"><img width="100%" src="Images/ultra%20fetch.png" alt="Ultra Fetch"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/agentic-facebook"><img width="100%" src="Images/agentic%20facebook.png?v=2" alt="Agentic Facebook"></a></td>
-    <td><a href="https://github.com/tjdwls101010/agentic-x"><img width="100%" src="Images/agentic%20x.png?v=2" alt="Agentic X"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/Agentic-Threads"><img width="100%" src="Images/agentic%20threads.png" alt="Agentic Threads"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Agentic-Reddit"><img width="100%" src="Images/agentic%20reddit.png" alt="Agentic Reddit"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/tjdwls101010/Agentic-Blog"><img width="100%" src="Images/agentic%20blog.png" alt="Agentic Blog"></a></td>
-    <td></td>
+    <td><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/11.%20Harness%20for%20K-Politics.png" alt="Harness for K Politics"></a></td>
+    <td><a href="https://github.com/tjdwls101010/K-News-DB"><img width="100%" src="Images/12.%20k-news%20db.png" alt="K News DB"></a></td>
   </tr>
 </table>
