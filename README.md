@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%"><a href="https://github.com/tjdwls101010/Harness-Creator"><img width="100%" src="Images/1.%20harness-creator.png" alt="Harness Creator"></a></td>
+    <td width="50%"><a href="https://github.com/tjdwls101010/Skill-Maker"><img width="100%" src="Images/skill-maker.png" alt="Skill Maker"></a></td>
     <td width="50%"><a href="https://github.com/tjdwls101010/Codex-in-Claude"><img width="100%" src="Images/2.%20codex%20in%20claude.png" alt="Codex in Claude"></a></td>
   </tr>
   <tr>
