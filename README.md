@@ -20,7 +20,7 @@
     <td><a href="https://github.com/tjdwls101010/Agentic-SNS"><img width="100%" src="Images/agentic%20sns.png" alt="Agentic SNS"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/Claude-Artist"><img width="100%" src="Images/10.%20claude%20to%20artist.png" alt="Claude Artist"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Claude-Artist"><img width="100%" src="Images/Claude%20Artist.png" alt="Claude Artist"></a></td>
     <td><a href="https://github.com/tjdwls101010/Claude-Researcher"><img width="100%" src="Images/claude%20researcher.png" alt="Claude Researcher"></a></td>
   </tr>
 </table>
