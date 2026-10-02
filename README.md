@@ -47,7 +47,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%"><a href="https://github.com/tjdwls101010/Harness-for-K-Politics"><img width="100%" src="Images/11.%20Harness%20for%20K-Politics.png" alt="Harness for K Politics"></a></td>
+    <td width="50%"><a href="https://github.com/tjdwls101010/Skills-for-K-Politics"><img width="100%" src="Images/Skills%20for%20K-Politics.png" alt="Skills for K Politics"></a></td>
     <td width="50%"><a href="https://github.com/tjdwls101010/K-News-DB"><img width="100%" src="Images/12.%20k-news%20db.png" alt="K News DB"></a></td>
   </tr>
 </table>
