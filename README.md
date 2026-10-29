@@ -1,4 +1,4 @@
-<img width="100%" src="Images/header.png" alt="프로필 헤더">
+<a href="https://github.com/tjdwls101010/Obsidian"><img width="100%" src="Images/header.png" alt="프로필 헤더"></a>
 
 <div align="center">
 
