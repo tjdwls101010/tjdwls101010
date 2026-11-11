@@ -1,6 +1,6 @@
 # Images 갤러리
 
-`Images/` 폴더의 모든 이미지 29장입니다. 생성 시점을 알 수 있는 이미지는 앞쪽에 시간순으로, 시점을 알 수 없는 이미지는 뒤쪽에 같은 생성 배치끼리 모아 이어서 배치했습니다.
+`Images/` 폴더의 모든 이미지 30장입니다. 생성 시점을 알 수 있는 이미지는 앞쪽에 시간순으로, 시점을 알 수 없는 이미지는 뒤쪽에 같은 생성 배치끼리 모아 이어서 배치했습니다.
 
 > 이 파일은 `scripts/generate_gallery.py`로 자동 생성됩니다. GitHub Actions의 **Update Gallery** 워크플로를 수동 실행하면 새로 추가된 이미지가 반영됩니다.
 
@@ -13,4 +13,4 @@
 | <img src="header.png" width="240" alt="header.png"> | <img src="claude%20researcher.png" width="240" alt="claude researcher.png"> | <img src="1.%20Skill%20Maker.png" width="240" alt="1. Skill Maker.png"> | <img src="5.%20Agentic%20Politics.jpg" width="240" alt="5. Agentic Politics.jpg"> |
 | <img src="6.%20Agentic%20News.jpg" width="240" alt="6. Agentic News.jpg"> | <img src="7.%20Agentic%20Design.jpg" width="240" alt="7. Agentic Design.jpg"> | <img src="12.%20Agentic%20Recast.png" width="240" alt="12. Agentic Recast.png"> | <img src="claude%20in%20claude.png" width="240" alt="claude in claude.png"> |
 | <img src="Agentic%20Documents.png" width="240" alt="Agentic Documents.png"> | <img src="11.%20Agentic%20Research.jpg" width="240" alt="11. Agentic Research.jpg"> | <img src="4.%20Agentic%20Invest.jpg" width="240" alt="4. Agentic Invest.jpg"> | <img src="8.%20Agentic%20Video.jpg" width="240" alt="8. Agentic Video.jpg"> |
-| <img src="9.%20Agentic%20PPT.jpg" width="240" alt="9. Agentic PPT.jpg"> |  |  |  |
+| <img src="9.%20Agentic%20PPT.jpg" width="240" alt="9. Agentic PPT.jpg"> | <img src="Agentic%20Discord.png" width="240" alt="Agentic Discord.png"> |  |  |
