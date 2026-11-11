@@ -16,18 +16,18 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Ultra-Search"><img width="100%" src="Images/3.%20Ultra%20Search.png" alt="Ultra Search"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Agentic-Invest"><img width="100%" src="Images/4.%20Agentic%20Invest.png" alt="Agentic Invest"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Skills-for-K-Politics"><img width="100%" src="Images/5.%20Agentic%20Politics.png" alt="Agentic Politics"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-Invest"><img width="100%" src="Images/4.%20Agentic%20Invest.jpg" alt="Agentic Invest"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Skills-for-K-Politics"><img width="100%" src="Images/5.%20Agentic%20Politics.jpg" alt="Agentic Politics"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/Agentic-News"><img width="100%" src="Images/6.%20Agentic%20News.png" alt="Agentic News"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Agentic-Design"><img width="100%" src="Images/7.%20Agentic%20Design.png" alt="Agentic Design"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Agentic-Video"><img width="100%" src="Images/8.%20Agentic%20Video.png" alt="Agentic Video"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-News"><img width="100%" src="Images/6.%20Agentic%20News.jpg" alt="Agentic News"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-Design"><img width="100%" src="Images/7.%20Agentic%20Design.jpg" alt="Agentic Design"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-Video"><img width="100%" src="Images/8.%20Agentic%20Video.jpg" alt="Agentic Video"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/tjdwls101010/Agentic-PPT"><img width="100%" src="Images/9.%20Agentic%20PPT.png" alt="Agentic PPT"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Agentic-PPT"><img width="100%" src="Images/9.%20Agentic%20PPT.jpg" alt="Agentic PPT"></a></td>
     <td><a href="https://github.com/tjdwls101010/Agentic-SNS"><img width="100%" src="Images/10.%20Agentic%20SNS.png" alt="Agentic SNS"></a></td>
-    <td><a href="https://github.com/tjdwls101010/Claude-Researcher"><img width="100%" src="Images/11.%20Agentic%20Research.png" alt="Agentic Research"></a></td>
+    <td><a href="https://github.com/tjdwls101010/Claude-Researcher"><img width="100%" src="Images/11.%20Agentic%20Research.jpg" alt="Agentic Research"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/tjdwls101010/Agentic-Recast"><img width="100%" src="Images/12.%20Agentic%20Recast.png" alt="Agentic Recast"></a></td>
